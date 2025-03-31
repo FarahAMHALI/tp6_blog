@@ -1,0 +1,129 @@
+{
+    "articles": [{
+            "id": "1",
+            "title": "Introduction à la cybersécurité",
+            "author": "Alae El Mahdaoui",
+            "date": "2025-03-21",
+            "category": "Cybersécurité",
+            "tags": [
+                "sécurité",
+                "cyberattaques",
+                "protection",
+                "hacking"
+            ],
+            "body": "La cybersécurité est un domaine crucial pour protéger les systèmes informatiques contre les attaques malveillantes. Avec l'augmentation des cyberattaques, il est essentiel de mettre en place des stratégies de protection. Cet article explore les principes fondamentaux, les menaces courantes et les bonnes pratiques pour sécuriser ses données."
+        },
+        {
+            "id": "2",
+            "title": "Les bases du CTF pour les débutants",
+            "author": "Alae El Mahdaoui",
+            "date": "2025-03-21",
+            "category": "Hacking",
+            "tags": [
+                "CTF",
+                "débutant",
+                "reverse engineering",
+                "sécurité"
+            ],
+            "body": "Les Capture The Flag (CTF) sont des compétitions où les participants résolvent des défis de sécurité. Ils couvrent divers domaines comme la cryptographie, le reverse engineering et l'exploitation web. Pour débuter, il est recommandé de comprendre les bases des systèmes, du réseau et des langages de script comme Python et Bash."
+        },
+        {
+            "id": "3",
+            "title": "Comment améliorer sa productivité en programmation",
+            "author": "Jean Dupont",
+            "date": "2025-03-20",
+            "category": "Développement",
+            "tags": [
+                "programmation",
+                "productivité",
+                "organisation",
+                "efficacité"
+            ],
+            "body": "Être productif en programmation demande une bonne organisation et des outils adaptés. Utiliser un éditeur de code performant, apprendre à maîtriser Git et automatiser certaines tâches permettent de gagner du temps. De plus, adopter une approche méthodique et bien commenter son code facilite la maintenance à long terme."
+        },
+        {
+            "id": "4",
+            "title": "L'importance de la normalisation en base de données",
+            "author": "Sofia Benali",
+            "date": "2025-03-18",
+            "category": "Base de données",
+            "tags": [
+                "base de données",
+                "normalisation",
+                "3NF",
+                "BCNF"
+            ],
+            "body": "La normalisation est une étape essentielle dans la conception des bases de données relationnelles. Elle permet d'éviter les redondances et d'améliorer l'intégrité des données. Cet article explique les différentes formes normales, notamment la 3NF et la BCNF, et donne des exemples concrets d'application."
+        },
+        {
+            "id": "5",
+            "title": "Pourquoi apprendre le langage C en 2025 ?",
+            "author": "Alex Martin",
+            "date": "2025-03-17",
+            "category": "Programmation",
+            "tags": [
+                "C",
+                "langage de programmation",
+                "performance",
+                "systèmes"
+            ],
+            "body": "Le langage C reste un incontournable pour les développeurs. Il est utilisé dans les systèmes embarqués, les systèmes d'exploitation et les applications critiques. Apprendre le C permet de comprendre le fonctionnement des ordinateurs à bas niveau et d'améliorer ses compétences en gestion de mémoire."
+        },
+        {
+            "id": "6",
+            "title": "Comprendre la mécanique quantique en 5 minutes",
+            "author": "Dr. Leila Karim",
+            "date": "2025-03-15",
+            "category": "Physique",
+            "tags": [
+                "mécanique quantique",
+                "physique",
+                "superposition",
+                "intrication"
+            ],
+            "body": "La mécanique quantique est une branche de la physique qui décrit le comportement des particules à l'échelle atomique et subatomique. Contrairement à la physique classique, elle repose sur des concepts comme la superposition et l'intrication. Cet article résume les principes clés et leurs implications."
+        },
+        {
+            "id": "7",
+            "title": "Créer un blog avec Django en quelques étapes",
+            "author": "Nassim El Fakir",
+            "date": "2025-03-14",
+            "category": "Développement web",
+            "tags": [
+                "Django",
+                "blog",
+                "framework",
+                "Python"
+            ],
+            "body": "Django est un framework puissant pour créer des applications web. Pour développer un blog, il faut d'abord configurer un projet, créer un modèle pour les articles, développer des vues et utiliser un template pour afficher le contenu. Grâce à Django, il est possible de mettre en place une application robuste et sécurisée."
+        },
+        {
+            "id": "8",
+            "title": "Les meilleures pratiques pour sécuriser une API REST",
+            "author": "Julie Laurent",
+            "date": "2025-03-12",
+            "category": "Sécurité",
+            "tags": [
+                "API",
+                "REST",
+                "sécurité",
+                "authentification"
+            ],
+            "body": "Les API REST sont largement utilisées pour échanger des données entre applications. Pour garantir leur sécurité, il est crucial d'implémenter une authentification robuste, de valider les entrées utilisateur et d'utiliser le chiffrement. Cet article détaille les meilleures pratiques pour éviter les vulnérabilités courantes."
+        },
+        {
+            "id": "9",
+            "title": "L'avenir de l'intelligence artificielle en 2030",
+            "author": "Dr. Karim El Hassani",
+            "date": "2025-03-10",
+            "category": "Intelligence Artificielle",
+            "tags": [
+                "IA",
+                "futur",
+                "machine learning",
+                "éthique"
+            ],
+            "body": "L'intelligence artificielle évolue rapidement et son impact sera encore plus grand d'ici 2030. De l'automatisation des tâches complexes à l'amélioration des diagnostics médicaux, l'IA transforme de nombreux secteurs. Cet article explore les tendances actuelles et les défis éthiques liés à son développement."
+        }
+    ]
+}
